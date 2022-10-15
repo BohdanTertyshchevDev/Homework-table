@@ -1,0 +1,25 @@
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 22px;
+    text-align: center;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+caption {
+    padding-top: 100px;
+}
+.grey {
+    background-color: lightgray;
+}
+
